@@ -12,8 +12,8 @@
 	     Eg     : sudo manage_dir -sort /home/bakri/Downloads
 	     option : { --help --sort --delete }
 ## Describtion
-A bash script that creates folders within a Linux system.
-Basically scheduling the contents of any generator
+A bash script that manages folders within a Linux system.
+Basically a day by arranging the contents of any folder by specifying the extension of the files within the folder and arranging all the files with the same extension in one folder with the extension a name
 
 Or delete a folder with its contents
 
