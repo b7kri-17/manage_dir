@@ -17,8 +17,10 @@
 - Install with ZIP file: [Download here](https://github.com/b7kri-17/manage_dir/archive/refs/heads/main.zip)
 
 ## Usage :
-- sudo `manage_dir -option <dir name or full path>`
-- e.g  `sudo manage_dir --sort /home/bakri/Downloads`
+- cd `manage_dir`
+- `chmod +x manage_dir`
+- Use  :`sudo manage_dir -option <dir name or full path>`
+- E.g  :`sudo manage_dir --sort /home/bakri/Downloads`
 
 ## Option :
  - show help | option `sudo manage_dir --help`
