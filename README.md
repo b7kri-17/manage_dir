@@ -7,3 +7,7 @@
                              /____/    /_____/  
 			
              coded-by: bakri | twitter: @b7kri.17
+
+using  : sudo  manage_dir -option <dir name or full path>
+Eg     : sudo $0 -sort /home/bakri/Downloads
+option : { --help --sort --delete }
