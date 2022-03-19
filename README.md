@@ -13,5 +13,5 @@
 	     option : { --help --sort --delete }
 
 Installation :
-- Install with git: `git clone https://github.com/maurosoria/dirsearch.git`
+- Install with git: `git clone https://github.com/b7kri-17/manage_dir.git`
 - Install with ZIP file: [Download here](https://github.com/maurosoria/dirsearch/archive/master.zip)
