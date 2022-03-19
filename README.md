@@ -13,7 +13,8 @@
 	     option : { --help --sort --delete }
 
 
-![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ![License](https://img.shields.io/badge/license-GNU_General_Public_License-_red.svg)
 ![Release](https://img.shields.io/github/release/maurosoria/dirsearch.svg)
 ![Stars](https://img.shields.io/github/stars/maurosoria/dirsearch.svg)
