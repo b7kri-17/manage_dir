@@ -12,9 +12,9 @@
 	     Eg     : sudo $0 -sort /home/bakri/Downloads
 	     option : { --help --sort --delete }
 
-Installation :
+## Installation :
 - Install with git: `git clone https://github.com/b7kri-17/manage_dir.git`
 - Install with ZIP file: [Download here](https://github.com/b7kri-17/manage_dir/archive/refs/heads/main.zip)
 
-Usage :
-	sudo `manage_dir` -option `<dir name or full path>`
+## Usage :
+- sudo `manage_dir` -option `<dir name or full path>`
