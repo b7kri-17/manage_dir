@@ -22,8 +22,8 @@
 
 ## Option :
  - show help | option `sudo manage_dir --help`
-
-      --sort   | -s       :sort file in directory
-      --delete | -d       :delete directory
-      --help   | -h       :how this menu
+ 
+	      --sort   | -s       :sort file in directory
+    	      --delete | -d       :delete directory
+              --help   | -h       :how this menu
 
