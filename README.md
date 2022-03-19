@@ -6,7 +6,7 @@
     /_/  /_/\__,_/_/ /_/\__,_/\__, /\________/_____/_/_/     
                              /____/    /_____/  
 			
-             coded-by: bakri | twitter: @b7kri.17
+             coded-by: bakri | twitter: @b7kri_17
 	     
 	     using  : sudo  manage_dir -option <dir name or full path>
 	     Eg     : sudo manage_dir -sort /home/bakri/Downloads
