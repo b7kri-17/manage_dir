@@ -12,13 +12,13 @@
 	     Eg     : sudo manage_dir -sort /home/bakri/Downloads
 	     option : { --help --sort --delete }
 ## Describtion
-	A bash script that creates folders within a Linux system.
-	Basically scheduling the contents of any generator
+A bash script that creates folders within a Linux system.
+Basically scheduling the contents of any generator
 
-	Or delete a folder with its contents
+Or delete a folder with its contents
 
-	Note
-	Dealing with only one folder
+Note
+Dealing with only one folder
 
 
 ## Installation :
