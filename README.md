@@ -11,6 +11,15 @@
 	     using  : sudo  manage_dir -option <dir name or full path>
 	     Eg     : sudo manage_dir -sort /home/bakri/Downloads
 	     option : { --help --sort --delete }
+## Describtion
+	A bash script that creates folders within a Linux system.
+	Basically scheduling the contents of any generator
+
+	Or delete a folder with its contents
+
+	Note
+	Dealing with only one folder
+
 
 ## Installation :
 - Install with git: `git clone https://github.com/b7kri-17/manage_dir.git`
