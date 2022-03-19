@@ -9,7 +9,7 @@
              coded-by: bakri | twitter: @b7kri.17
 	     
 	     using  : sudo  manage_dir -option <dir name or full path>
-	     Eg     : sudo $0 -sort /home/bakri/Downloads
+	     Eg     : sudo manage_dir -sort /home/bakri/Downloads
 	     option : { --help --sort --delete }
 
 ## Installation :
@@ -17,4 +17,5 @@
 - Install with ZIP file: [Download here](https://github.com/b7kri-17/manage_dir/archive/refs/heads/main.zip)
 
 ## Usage :
-- sudo `manage_dir` -option `<dir name or full path>`
+- sudo `manage_dir -option <dir name or full path>`
+- e.g  `sudo manage_dir -sort /home/bakri/Downloads`
