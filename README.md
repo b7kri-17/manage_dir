@@ -19,9 +19,9 @@
 ## Usage :
 - sudo `manage_dir -option <dir name or full path>`
 - e.g  `sudo manage_dir --sort /home/bakri/Downloads`
-- 
+
 ## Option :
-`sudo manage_dir --help`
+-`sudo manage_dir --help`
 
       --sort   | -s       :sort file in directory
       --delete | -d       :delete directory
